@@ -5,7 +5,7 @@
 </p>
 
 ### 🛠  Descrição
-
+ 
 </br>
 
 O projeto tem como objetivo mostrar um restaurante fictício especializado em comida brasileira.
